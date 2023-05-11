@@ -1,5 +1,9 @@
 # Line-Bar-Chart
 
+Chart Screenshot: ![graph](https://github.com/neeraj688meena/Line-Bar-Chart/assets/61790109/8ec4ab43-eee9-4509-8cb6-deba9dfbf911)
+
+
+
 1. You are expected to implement a line chart and bar chart using React and ECharts for React. The entire source code should be in TypeScript.
 2. Wine Data Set to be used for visualization.
 3. Line Chart to be drawn between “Flavanoids” on the horizontal axis and “Ash” on the vertical axis. The axes should be labeled.
